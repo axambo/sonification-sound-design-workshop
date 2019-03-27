@@ -1,0 +1,26 @@
+{
+	"description": "List of female electronic musicians",
+	"source": "https://en.wikipedia.org/wiki/List_of_female_electronic_musicians",
+	"figures": [{
+		"country": "USA",
+		"name": "Laurie Anderson",
+		"born": 1947,
+		"wiki": "https://en.wikipedia.org/wiki/Laurie_Anderson"
+	}, {
+		"country": "Argentina",
+		"name": "Beatriz Ferreyra",
+		"born": 1937,
+		"wiki": "https://en.wikipedia.org/wiki/Beatriz_Ferreyra"
+	}, {
+		"country": "USA",
+		"name": "Diamanda Galás",
+		"born": 1955,
+		"wiki": "https://en.wikipedia.org/wiki/Diamanda_Gal%C3%A1s"
+	}, {
+		"country": "Japan",
+		"name": "Yoko Ono",
+		"born": 1933,
+		"wiki": "https://en.wikipedia.org/wiki/Yoko_Ono"
+	}
+	]
+}
