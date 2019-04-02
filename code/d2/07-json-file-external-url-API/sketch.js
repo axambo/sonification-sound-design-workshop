@@ -18,9 +18,9 @@ function setup(){
   // This is data!
   // Never publish your API! (replace before uploading to the repo)
   // Remember to change [YOUR-API-HERE] with your API key
-  loadJSON("http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=[YOUR-API-HERE]&units=metric", dataReady);
+  loadJSON("http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=[Your-API-heres  ]&units=metric", dataReady);
   //textFont(font);
-  textSize(fontsize);
+  textSize();
   textAlign(CENTER, CENTER);
 }
 

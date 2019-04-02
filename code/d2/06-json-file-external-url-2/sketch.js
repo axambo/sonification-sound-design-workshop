@@ -20,7 +20,7 @@ function dataReady(data){
 function draw(){
   console.log(earthquakeData);
   if (earthquakeData) {
-    randomSeed(4);
+    randomSeed(4); // to keep it steady
     for (var i = 0; i < earthquakeData.metadata.count; i++) {
       //ellipse(random(width), random(height), 16, 16)
       var mag = earthquakeData.features[i].properties.mag;

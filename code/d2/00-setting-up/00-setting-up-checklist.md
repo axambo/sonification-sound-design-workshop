@@ -21,3 +21,6 @@ Get familiar with the commands setTimeout() and setInterval(). For example:
 
 * [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
 
+* [The map function in p5.js](https://www.youtube.com/watch?v=nicMAoW6u1g)
+
+* [p5.js-sound working in Chrome from new chrome autoplay policy](https://github.com/processing/p5.js-sound/issues/274)

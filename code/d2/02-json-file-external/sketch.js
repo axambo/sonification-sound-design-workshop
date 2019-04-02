@@ -12,7 +12,7 @@ function preload(){
 function setup() {
   //createCanvas(400,400);
   noCanvas();
-  createP(data.figures[0].name);
+  createP(data.figures[2].name);
 }
 
 function draw() {
